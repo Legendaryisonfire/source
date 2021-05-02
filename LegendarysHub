@@ -1361,5 +1361,5 @@ boostedx.TextScaled = true
 boostedx.TextSize = 14.000
 boostedx.TextWrapped = true
 boostedx.MouseButton1Down:connect(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Legendaryisonfire/LegendarysHub/main/source"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Legendaryisonfire/LegendarysHub/main/source?token=AT5ONGQV5L4ACEJNITSHP5DAR3X6M"))()
 end)
